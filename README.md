@@ -7,16 +7,16 @@ This program allows you to view them at any given number of iterations and imple
 The starting state is a simple langton loop:
 
 
-           RRRRRRRR                                                                                                                       
-          RBC BY BYR                                                                                                                      
-          R RRRRRR R                                                                                                                      
-          RCR    RBR                                                                                                                      
-          RBR    RBR                                                                                                                      
-          R R    RBR                                                                                                                      
-          RCR    RBR                                                                                                                      
-          RBRRRRRRBRRRRR                                                                                                                  
-          R CB CB CBBBBBR                                                                                                                 
-           RRRRRRRRRRRRR       
+           RRRRRRRR                                                            
+          RBC BY BYR                          
+          R RRRRRR R                         
+          RCR    RBR                
+          RBR    RBR                    
+          R R    RBR                       
+          RCR    RBR         
+          RBRRRRRRBRRRRR      
+          R CB CB CBBBBBR       
+           RRRRRRRRRRRRR      
 
 
 After ~150 iterations, the loops fully replicate themselves. Eventually, multiple generations are birthed. 
