@@ -88,3 +88,5 @@ This example below is from iteration 600:
           RRBBBBBBBR RBBB YB YR RB CB CB R        RBR                                                                          RBBB YB YR 
            RRRRRRRR   RRRRRRRR   RRRRRRRR         RBR                                                                           RRRRRRRR  
                                                   RBR                                                                                     
+
+Going forward, I would like to create the other self-replicating loops such as Byl's loop, Chou-Reggia Loop, Tempesti Loop, Perrier Loop, Evoloop, and Sexyloop. Each of these loops are either simplified or add extra features to the Langston loops.
