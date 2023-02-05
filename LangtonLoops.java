@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int[][] arr = new int[64][128];
+        int[][] arr = new int[128][128];
         HashMap<String, Integer> ruleSet = new HashMap();
                 
         try{
